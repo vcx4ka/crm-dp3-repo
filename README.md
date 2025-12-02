@@ -16,6 +16,8 @@ Scipy was the package with the most commits in our dataset, making it the most a
 
 ![image](visualizations/event_type_distribution.png)
 
+<img alt="image" src="https://github.com/vcx4ka/miscellaneous/blob/main/event_type_distribution.png" />
+
 
 ## GitHub Repository
 https://github.com/vcx4ka/crm-dp3-repo
