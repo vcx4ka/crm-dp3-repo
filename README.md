@@ -14,9 +14,11 @@ Scipy was the package with the most commits in our dataset, making it the most a
 
 ## Plot/Visualization
 
-![image](visualizations/event_type_distribution.png)
-
 <img alt="image" src="https://github.com/vcx4ka/miscellaneous/blob/main/event_type_distribution.png" />
+
+<img alt="image" src="https://github.com/vcx4ka/miscellaneous/blob/main/temporal_patterns.png" />
+
+<img alt="image" src="https://github.com/vcx4ka/miscellaneous/blob/main/top_repositories.png" />
 
 
 ## GitHub Repository
