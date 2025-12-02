@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  github-pipeline:
+    build: .
+    container_name: github-analysis-pipeline
+    volumes:
+      - ./data:/app/data
+      - ./visualizations:/app/visualizations
+      - ./logs:/app/logs
+    environment:
+      - GITHUB_TOKEN=${GITHUB_TOKEN:-}
+    command: python -m orchestration.pipeline
